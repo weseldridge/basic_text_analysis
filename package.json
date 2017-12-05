@@ -1,0 +1,20 @@
+{
+  "name": "readability_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^11.2.1",
+    "flesch": "^1.0.2",
+    "flesch-kincaid": "^1.0.2",
+    "lodash": "^4.17.4",
+    "sentiment": "^4.1.0",
+    "syllable": "^3.0.0",
+    "word-count": "^0.2.2"
+  }
+}

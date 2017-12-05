@@ -1,0 +1,16 @@
+# IDEs
+.idea
+.vscode/
+
+# Deployment
+/log
+build/dist
+
+/node_modules
+/bower_components
+
+# Operating System
+.DS_Store
+*/.DS_Store
+npm-debug.log.*
+npm-debug.log
